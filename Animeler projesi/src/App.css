@@ -1,0 +1,45 @@
+.anime-main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 5px 0px;
+  grid: 4;
+  grid-row: auto;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.anime {
+  width: 300px;
+  height: 390px;
+  border: 10px solid rgb(195, 226, 236);
+  padding: 3px;
+  margin: 5px;
+  border-radius: 10px;
+
+}
+
+.titlex {
+  font-family: "Gemunu Libre", sans-serif;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.anime-desc {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.anime-epis {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: aquamarine;
+}
+
+.anime-link {
+  font-size: 12px;
+  text-decoration: none;
+
+
+}
